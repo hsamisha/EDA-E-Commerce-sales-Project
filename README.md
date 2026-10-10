@@ -1,5 +1,8 @@
 # E-Commerce Sales Data Analysis
 
+## Project Notebook
+[View the Google Colab Notebook](https://colab.research.google.com/drive/1ryKjRgsB47RxMuQxvNUIRaGp7WjG1orf?usp=sharing)
+
 ## Project Overview
 The E-Commerce Sales Data Analysis project focuses on analyzing sales transaction data to understand business performance, customer purchasing patterns, product demand, and sales trends. The project uses Python in Google Colab to clean, process, analyze, and visualize the dataset. The analysis helps transform raw sales data into meaningful information that can support better business decisions.
 
@@ -69,5 +72,4 @@ The E-Commerce Sales Data Analysis project demonstrates how Python and Explorato
 
 The results can support data-driven decision-making, improve understanding of sales trends, and help identify opportunities for business growth.
 
-## Project Notebook
-[View the Google Colab Notebook](https://colab.research.google.com/drive/1ryKjRgsB47RxMuQxvNUIRaGp7WjG1orf?usp=sharing)
+
